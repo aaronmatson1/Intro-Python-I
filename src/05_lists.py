@@ -40,4 +40,4 @@ print(len(x))
 list = []
 for i in x:
     list.append(i * 1000)
-print(list)
+print(list) 

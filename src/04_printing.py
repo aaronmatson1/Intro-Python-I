@@ -20,4 +20,4 @@ print('%d %.2f %s' % (x, y, z))
 print('{} {:.2f} {}'. format(x, y , z))
 
 # Finally, print the same thing using an f-string
-print(f'{x} {y:.2f} {z}')
+print(f'{x} {y:.2f} {z}') 
